@@ -1,4 +1,4 @@
-# HFD-CCA
+# HFD-CCA (High Frequency Domain Canonical Correlation Analysis)
 
 ## Overview
 A Brain-Computer Interface (BCI) is a system that enables direct communication between the brain and an external device, bypassing traditional neural pathways. It typically captures brain signals, processes them, and translates them into commands to control computers, prosthetics, or other devices, offering new ways for individuals to interact with technology. 
