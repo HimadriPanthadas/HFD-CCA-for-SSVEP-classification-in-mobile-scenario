@@ -12,7 +12,10 @@ https://github.com/youngeun1209/MobileBCI_Data
 https://www.nature.com/articles/s41597-021-01094-4
 
 ## Codes Involved
-
+a_load_all_data.m : Loads dataset 
+creator.m: Filters the EEG signal
+HFDCCA_code.m: main code applying the proposed methodology
+train_test_LDAA_hfd_cca.m: five fold cross validation of three machine learning models: Local Discriminant Analysis. Naive Bayes and Tree.
 
 ## Developing Environment
 Matlab R2020b
